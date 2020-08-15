@@ -1,7 +1,7 @@
 # Predictive-Analytics
 
-The objective of this assignment is to get started with Predictive Analytics. The goals of the
-assessment is to implement a predictive analytics algorithm from scratch and to create a
+The objective of this project is to get started with Predictive Analytics. The goals of the
+project is to implement a predictive analytics algorithm from scratch and to create a
 Scikit-learn predictive analytics pipeline and perform visualization using Matplotlib.
 
 PART - 1 Implementation of Machine Learning Algorithms <br>
